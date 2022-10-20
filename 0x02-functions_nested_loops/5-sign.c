@@ -28,6 +28,6 @@ int print_sign(int n)
 	{
 		_putchar('-1');
 		return ('-1');
-		_putchar('\n'0;
+		_putchar('\n';
 	}
 }
